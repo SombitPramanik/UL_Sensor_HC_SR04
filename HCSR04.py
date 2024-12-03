@@ -1,7 +1,7 @@
 """
-A lightweight MicroPython implementation for interfacing with an HC-SR04 Ultrasonic Sensor
+Micropython Driver for HC-SR04 Ultrasonic Sensor
 Author: Sombit Pramanik - https://github.com/SombitPramanik/
-Version: 1.0
+Version: 0.25
 Get updates to this code file here: https://github.com/SombitPramanik/UL_Sensor_HC_SR04
 
 License: MIT License
