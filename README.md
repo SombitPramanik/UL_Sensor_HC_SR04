@@ -49,7 +49,7 @@ This repository provides a lightweight MicroPython implementation for interfacin
 ```python
 from machine import Pin, time_pulse_us
 import utime
-from src.HCSR04 import UltrasonicSensor
+from HCSR04 import UltrasonicSensor
 
 # Initialize ultrasonic sensor (GPIO pins 14 and 15)
 sensor = UltrasonicSensor(trigger_pin=14, echo_pin=15)
